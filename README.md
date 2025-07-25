@@ -2,8 +2,6 @@
 
 **BDMan** is a cross-platform C++ download manager that is built using the Curl library
 
----
-
 ## 🔧 Features
 
 - ✅ Multi-threaded HTTP downloads (coming soon...)
