@@ -18,6 +18,7 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 build/
+out/
 
 #################################
 # Visual Studio Files (Windows)
