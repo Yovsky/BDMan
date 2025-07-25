@@ -1,0 +1,61 @@
+#################################
+# C++ Compiled Object & Binary Files
+#################################
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.lib
+
+#################################
+# CMake Generated Files
+#################################
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+
+#################################
+# Visual Studio Files (Windows)
+#################################
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.ipch
+*.opensdf
+*.sdf
+*.cachefile
+*.log
+.vscode/.browse.VC.db
+
+# Visual Studio Build Folders
+x64/
+x86/
+Debug/
+Release/
+
+#################################
+# VS Code Settings (Keep configs, ignore local prefs)
+#################################
+.vscode/settings.json
+
+#################################
+# OS-Specific Files
+#################################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
