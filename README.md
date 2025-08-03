@@ -2,24 +2,24 @@
 
 **BDMan** is a cross-platform C++ download manager that is built using the Curl library.
 
-## 🔧 Features
+## Features
 
-- ✅ Multi-threaded HTTP downloads (coming soon...)
-- ✅ Fallback to single-threaded mode if threads fail (coming soon...)
-- ✅ Real-time progress indicators
-- ✅ CMake-based build system
-- ✅ Cross-platform (Windows & Linux)
-- ✅ Lightweight and dependency-minimal
-
----
-
-## 🖥️ Screenshots (Coming soon...)
-
-
+- Multi-threaded HTTP downloads (coming soon...)
+- Fallback to single-threaded mode if threads fail (coming soon...)
+- Real-time progress indicators
+- CMake-based build system
+- Cross-platform (Windows & Linux)
+- Lightweight and dependency-minimal
 
 ---
 
-## 🧱 Requirements
+## Screenshots (Coming soon...)
+
+
+
+---
+
+## Requirements
 
 ### 🔹 Common
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📦 Building the Project
+## Building the Project
 
 ### 🔹 Windows (Visual Studio + CMake + vcpkg)
 
